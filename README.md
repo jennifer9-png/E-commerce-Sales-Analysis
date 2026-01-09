@@ -36,7 +36,7 @@ Key observations:
 -January 2019 recorded the highest monthly sales (≈120,000).
 - Overall sales increased steadily from 2016 to 2019.
 
-![monthly sales trends](1mages/monthlysalestrends.PNG)
+![monthly sales trends](1mages/MonthlySalesTrend.PNG)
 
 ### Sales by Category
 Total sales were aggregated by product category to compare overall performance.
