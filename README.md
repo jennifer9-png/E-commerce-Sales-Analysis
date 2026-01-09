@@ -34,83 +34,49 @@ Sales trends were analyzed on a monthly basis to identify seasonality and long-t
 Key observations:
 - Sales show clear seasonal fluctuations.
 -January 2019 recorded the highest monthly sales (≈120,000).
+- Overall sales increased steadily from 2016 to 2019.
 
-Overall sales increased steadily from 2016 to 2019.
+![monthly sales trends](1mages/monthlysalestrends.PNG)
 
-⬇️ PASTE YOUR MONTHLY SALES TREND SCREENSHOT HERE ⬇️
-
-2️⃣ Sales by Category
-
+### Sales by Category
 Total sales were aggregated by product category to compare overall performance.
-
 Key observations:
+- Technology generated the highest total sales.
+- Furniture showed comparatively lower sales performance.
 
-Technology generated the highest total sales.
+![sales by category](1mages/totalsalesbycategory.PNG)
 
-Furniture showed comparatively lower sales performance.
-
-⬇️ PASTE SALES BY CATEGORY SCREENSHOT HERE ⬇️
-
-3️⃣ Sales by Sub-Category
-
+### Sales by Sub-Category
 Sales were further analyzed at the sub-category level to identify top-performing product groups.
-
 Key observations:
+- A small number of sub-categories contribute disproportionately to total revenue.
+- Indicates opportunities for focused inventory and marketing strategies.
 
-A small number of sub-categories contribute disproportionately to total revenue.
+![sales by sub-category](1mages/totalsalesbysubcategory.PNG)
 
-Indicates opportunities for focused inventory and marketing strategies.
-
-⬇️ PASTE SALES BY SUB-CATEGORY SCREENSHOT HERE ⬇️
-
-4️⃣ Sales by Region
-
+### Sales by Region
 Regional sales performance was analyzed to identify geographic differences in revenue contribution.
-
 Key observations:
+- Certain regions significantly outperform others.
+- Regional insights can guide distribution and sales planning.
 
-Certain regions significantly outperform others.
+![sales by region](1mages/totalsalesbyregion.PNG)
 
-Regional insights can guide distribution and sales planning.
-
-⬇️ PASTE SALES BY REGION SCREENSHOT HERE ⬇️
-
-5️⃣ Profit Analysis
-
+### Profit Analysis
 Profitability was analyzed alongside sales to assess margin performance.
-
 Key observations:
+- High sales do not always translate into high profit.
+- Some categories generate strong revenue but weaker profit margins.
 
-High sales do not always translate into high profit.
+![profit analysis](1mages/totalprofitbycategory.PNG)
 
-Some categories generate strong revenue but weaker profit margins.
+## Key Insights
+- Sales increased year-over-year from 2016 to 2019.
+- Technology is the strongest performing category by revenue.
+- Profitability varies significantly across categories.
+- A small group of products drives a large portion of total sales.
+- Sales patterns suggest seasonal peaks that can guide strategic planning.
 
-⬇️ PASTE PROFIT ANALYSIS SCREENSHOT HERE ⬇️
-
-6️⃣ Top 5 Products by Sales
-
-The top five products by total sales were identified to highlight key revenue drivers.
-
-Key observations:
-
-A small number of products account for a large share of total sales.
-
-Useful for demand forecasting and product prioritization.
-
-⬇️ PASTE TOP 5 PRODUCTS SCREENSHOT HERE ⬇️
-
-💡 Key Insights
-
-Sales increased year-over-year from 2016 to 2019.
-
-Technology is the strongest performing category by revenue.
-
-Profitability varies significantly across categories.
-
-A small group of products drives a large portion of total sales.
-
-Sales patterns suggest seasonal peaks that can guide strategic planning.
-
-🚀 Conclusion
+## Conclusion
 
 This project demonstrates the ability to clean and analyze real-world data, identify trends, create meaningful visualizations, and translate data into actionable business insights.
