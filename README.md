@@ -1,5 +1,5 @@
 # ECommerce Sales Analysis (Superstore Dataset)
-## Project Overview
+# Project Overview
 This project explores and analyzes e-commerce sales data to uncover trends, performance insights, and business opportunities. 
 The analysis focuses on sales over time, category and regional performance, profitability, and top-selling products.
 The purpose of this project is to demonstrate entry-level data analyst skills, including data cleaning, exploratory data analysis (EDA), visualization, and insight generation using Python.
